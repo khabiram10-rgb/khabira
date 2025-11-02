@@ -7,3 +7,90 @@ oct7/2025
 fundamentals of VHDL,HDL,VHDL videos
 
 
+oct8/2025
+revised previous topics
+
+
+oct 9/2025
+watching videos about anaolog electronics ,digitals electronics 
+revised all topics
+
+oct10/2025
+watched the basic electronics videos
+
+oct11/2025
+watched vlsi videos about stimulation
+
+oct12/2025
+revision 
+
+
+oct13/2025
+revision ,build a project using sensor .
+
+oct14/2025
+learn ESP32 microprocessor
+
+oct 15/16 2025
+create github repo 
+
+oct19/2025
+revision
+
+oct21/2025
+learn the basic electroni components and their principals,
+ardiuno nano boards and their components ,functions of the pins
+
+oct22/2025
+revision
+
+oct23/2025
+learn to build a project in ardiuno and create ardiuno nano boards embedded with bluetooth and wifi
+
+oct24/2025
+revision
+
+oct25/2025
+learn about raspberry pi and their functions and how it works in iot ,embedded system
+
+oct26/2025
+ learn ESP32 wroom module 
+
+oct27/2025
+start to learn python freecodecamp,videos
+
+
+oct28/2025
+3 modules completed freecode camp
+
+
+oct29/2025
+python topic
+1.variable
+2.string
+3.casting
+4 question solved
+
+
+oct30/2025
+1.if else
+2.boolean values
+3.comparsion operators
+solving problems
+
+
+
+oct31/2025
+revision
+
+
+nov1/2025
+learn electronics fundamentals,networking in embedded systems 
+
+
+
+
+
+
+
+
