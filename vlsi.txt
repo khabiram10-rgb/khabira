@@ -1,3 +1,9 @@
 oct6/2025
 what is vlsi 
 introduction of design flow
+
+
+oct7/2025
+fundamentals of VHDL,HDL,VHDL videos
+
+
