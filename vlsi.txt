@@ -93,7 +93,8 @@ nov2/2025
 work out some problems related to previous topics in python
 
 
-
+nov3/2025
+build project (ultrosonic pest repllent)
 
 
 
