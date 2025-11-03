@@ -89,6 +89,10 @@ learn electronics fundamentals,networking in embedded systems
 
 
 
+nov2/2025
+work out some problems related to previous topics in python
+
+
 
 
 
